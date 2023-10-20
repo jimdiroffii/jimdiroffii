@@ -1,6 +1,6 @@
 ### Hi, I'm Jim! 👋
 - 🔭 I’m currently working on acquiring new business!
-- 🌱 I’m learning C++ right now!
+- 🌱 I’m learning C++ and C# right now!
 - 🧑‍💻 I've gotten things done with PowerShell, Bash, HTML/CSS/JS, PHP, Python, C, Java and more!
 - 👯 I’m want to collaborate on your project!
 - 🤔 I’m looking for help contributing to FOSS projects!
