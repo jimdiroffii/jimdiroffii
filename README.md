@@ -1,4 +1,5 @@
 ### Hi, I'm Jim! 👋
+
 - 🔭 I’m currently working on acquiring new business!
 - 🌱 I’m learning C++ and C# right now!
 - 🧑‍💻 I've gotten things done with PowerShell, Bash, HTML/CSS/JS, PHP, Python, C, Java and more!
@@ -10,9 +11,11 @@
 - ⚡ Astronaut Alexander Gerst says that space smells like [walnuts and brake pads](https://x.com/Astro_Alex/status/499938356516880384?s=20).
 
 ### Top Languages in Public Repos
+
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jimdiroffii&layout=compact)
 
 #### Other Profiles
-<a href="https://stackexchange.com/users/10995212"><img src="https://stackexchange.com/users/flair/10995212.png" width="208" height="58" alt="profile for Jim Diroff II on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Jim Diroff II on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
+
+[![profile for Jim Diroff II on Stack Exchange, a network of free, community-driven Q&A sites](https://stackexchange.com/users/flair/10995212.png)](https://stackexchange.com/users/10995212)
 
 [FreeCodeCamp](https://www.freecodecamp.org/jimdiroffii)
