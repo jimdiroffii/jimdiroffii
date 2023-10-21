@@ -15,4 +15,4 @@
 #### Other Profiles
 <a href="https://stackexchange.com/users/10995212"><img src="https://stackexchange.com/users/flair/10995212.png" width="208" height="58" alt="profile for Jim Diroff II on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Jim Diroff II on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
 
-(FreeCodeCamp)[https://www.freecodecamp.org/jimdiroffii]
+[FreeCodeCamp](https://www.freecodecamp.org/jimdiroffii)
