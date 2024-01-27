@@ -1,5 +1,6 @@
 ### Hi, I'm Jim! 👋
 
+- 👨‍🦳 15+ years of professional IT, 30+ years of building computers and networks 
 - 💬 Ask me about system administration, networking, security, point of sale, and outdoor recreation!
 - 📫 Reach me anywhere: @jimdiroffii
 - 🥇 I won first place at my 4th Grade Science Fair for "How A Computer Works"!
