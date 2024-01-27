@@ -2,7 +2,7 @@
 
 - 💬 Ask me about system administration, networking, security, point of sale, and outdoor recreation!
 - 📫 Reach me anywhere: @jimdiroffii
-- 🥇 I won first place at my 1994 4th Grade Science Fair for "How A Computer Works"!
+- 🥇 I won first place at my 4th Grade Science Fair for "How A Computer Works"!
 - ⚡ Astronaut Alexander Gerst says that space smells like [walnuts and brake pads](https://x.com/Astro_Alex/status/499938356516880384?s=20).
 
 ### Some Cool Tools
