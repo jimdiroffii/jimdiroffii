@@ -1,7 +1,13 @@
-### Hi, I'm Jim! 👋
+## Hi, I'm Jim! 👋
 
-- 👨‍🦳 15+ years of professional IT, 30+ years of building computers and networks 
-- 💬 Ask me about system administration, networking, security, point of sale, and outdoor recreation
-- 📫 Reach me anywhere: @jimdiroffii
-- 🥇 I won first place at my 4th Grade Science Fair for "How A Computer Works"
+- 👨‍🦳 17+ years professional IT >>> 30+ years tinkering on computers
+- 🤖 Wrote my first program in BASIC
+- 👾 First game was *Wolfenstein 3D*
+- 🎮 Currently playing *Clair Obscur: Expedition 33*
+- 🏭 Always playing *Factorio*
+- 💬 Ask me about: bushcraft || compliance || gaming || networking || programming || point of sale || security || sysadmin || webdev
+- 🏅 Current: `Security+` && `ISC2 CC` | Expired: `CCNA`
+- 🎓 Alumnus @ `WCC` && `NASA L'Space NPWEE`
+- 📫 Reach me anywhere: `@jimdiroffii`
+- 🏆 I won first place at my 4th Grade Science Fair for *How A Computer Works*
 - ⚡ Astronaut Alexander Gerst says that space smells like [walnuts and brake pads](https://x.com/Astro_Alex/status/499938356516880384?s=20)
