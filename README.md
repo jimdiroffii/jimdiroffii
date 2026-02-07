@@ -14,7 +14,7 @@
 
 ### OSS Contributions / PRs Merged
 
-- *Open* - [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts)
+- [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts)
 - [JetBrains/swot](https://github.com/JetBrains/swot)
 - [kimci86/bkcrack](https://github.com/kimci86/bkcrack)
 - [clearml/clearml](https://github.com/clearml/clearml)
