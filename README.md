@@ -1,7 +1,9 @@
 ## Hi, I'm Jim! 👋
 
 - 👨‍🦳 17+ years professional IT >>> 30+ years tinkering on computers
-- 🤖 Wrote my first program in BASIC
+- 🤖 Wrote my first program in *BASIC*
+- 🕴️ Currently learning *Go*
+- 👴 Always writing *C*
 - 👾 First game was *Wolfenstein 3D*
 - 🎮 Currently playing *Satisfactory*
 - 🏭 Always playing *Factorio*
