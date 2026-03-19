@@ -3,7 +3,7 @@
 - 👨‍🦳 17+ years professional IT >>> 30+ years tinkering on computers
 - 🤖 Wrote my first program in BASIC
 - 👾 First game was *Wolfenstein 3D*
-- 🎮 Currently playing *Railroad Tycoon 2*
+- 🎮 Currently playing *Satisfactory*
 - 🏭 Always playing *Factorio*
 - 💬 Ask me about: bushcraft || compliance || gaming || networking || programming || point of sale || security || sysadmin || webdev
 - 🏅 Current: `Security+` && `ISC2 CC` | Expired: `CCNA`
