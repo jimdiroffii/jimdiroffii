@@ -5,7 +5,7 @@
 - 🕴️ Currently learning *Go*
 - 👴 Always writing *C*
 - 👾 First game was *Wolfenstein 3D*
-- 🎮 Currently playing *Satisfactory*
+- 🎮 Currently playing *Death Stranding 2*
 - 🏭 Always playing *Factorio*
 - 💬 Ask me about: bushcraft || compliance || gaming || networking || programming || point of sale || security || sysadmin || webdev
 - 🏅 Current: `Security+` && `ISC2 CC` | Expired: `CCNA`
