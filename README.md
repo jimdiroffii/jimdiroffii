@@ -1,6 +1,6 @@
 ## Hi, I'm Jim! 👋
 
-- 👨‍🦳 17+ years professional IT >>> 30+ years tinkering on computers
+- 👨‍🦳 18+ years professional IT >>> 30+ years tinkering on computers
 - 🤖 Wrote my first program in *BASIC*
 - 🕴️ Currently learning *Go*
 - 👴 Always writing *C*
